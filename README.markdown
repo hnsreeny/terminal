@@ -2,7 +2,7 @@
 
 This cheatsheet is available in many languages. Since the translation rely on volunteers, the content between the available languages may vary. Choose one below:
 
-## English Version
+## Notes 
 
 _Letters are shown capitalized for readability only._ _Capslock should be off._
 
